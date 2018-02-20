@@ -1,0 +1,16 @@
+2018-02-20 09:54:08,285 - root - INFO - show_manager : 29 - 2
+2018-02-20 09:54:08,285 - root - WARNING - show_manager : 30 - 3
+2018-02-20 09:54:08,286 - root - ERROR - show_manager : 31 - 4
+2018-02-20 09:54:08,287 - root - CRITICAL - show_manager : 32 - 5
+2018-02-20 09:54:08,287 - root - INFO - dstore : 17 - Entering Database module
+2018-02-20 09:54:50,335 - root - INFO - show_manager : 29 - 2
+2018-02-20 09:54:50,336 - root - WARNING - show_manager : 30 - 3
+2018-02-20 09:54:50,337 - root - ERROR - show_manager : 31 - 4
+2018-02-20 09:54:50,337 - root - CRITICAL - show_manager : 32 - 5
+2018-02-20 09:54:50,338 - root - INFO - dstore : 17 - Entering Database module
+2018-02-20 09:56:38,398 - root - INFO - show_manager : 29 - 2
+2018-02-20 09:56:38,399 - root - WARNING - show_manager : 30 - 3
+2018-02-20 09:56:38,400 - root - ERROR - show_manager : 31 - 4
+2018-02-20 09:56:38,400 - root - CRITICAL - show_manager : 32 - 5
+2018-02-20 09:56:38,400 - root - INFO - dstore : 17 - Entering Database module
+2018-02-20 09:56:38,406 - root - INFO - ui : 20 - Entering UI - User Interface module
